@@ -1,0 +1,452 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with mock data 1`] = `
+.c12 {
+  height: 2em;
+}
+
+.c13 {
+  font-size: 2.9em;
+  font-weight: bold;
+}
+
+.c14 {
+  line-height: 1.3em;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.c17 {
+  background: #1A2A43;
+  border-radius: 5px;
+  height: 1.9em;
+  width: 1.8em;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 1.5em;
+}
+
+.c19 {
+  background: #36598D;
+  border-radius: 5px;
+  height: 1.9em;
+  width: 1.8em;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 1.5em;
+}
+
+.c15 {
+  margin-bottom: 0.1em;
+  color: #36598d;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.c18 {
+  font-size: 2.4em;
+  font-weight: bold;
+  margin: 0.2em;
+}
+
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c3 {
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.c4 {
+  height: 2em;
+}
+
+.c5 {
+  height: 2em;
+}
+
+.c7 {
+  padding-left: 1.7em;
+  padding-right: 1.7em;
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+
+.c21 {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-bottom: 0.8em;
+}
+
+.c8 {
+  background: #01193b;
+}
+
+.c25 {
+  background: #01193b;
+  padding-left: 1em;
+  padding-right: 1.7em;
+  padding-bottom: 2em;
+  padding-top: 2em;
+}
+
+.c26 {
+  font-size: 0.9em;
+  line-height: 1.9em;
+  font-weight: 100;
+  color: #8ea2c1;
+}
+
+.c23 {
+  border-bottom: 2px solid #01193b;
+  padding-top: 0.8em;
+  padding-bottom: 0.8em;
+}
+
+.c20 {
+  background: #fb1a7b;
+  border-radius: 5px;
+  height: 2em;
+  margin-top: 0.5em;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 2.3em;
+}
+
+.c1 {
+  margin-bottom: 10px;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.c9 {
+  margin-top: -2.5em;
+}
+
+.c6 {
+  width: 75%;
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+  z-index: 1;
+}
+
+.c10 {
+  margin-top: 0.5em;
+  font-size: 2.9em;
+  font-weight: bold;
+}
+
+.c22 {
+  font-size: 1.1em;
+  line-height: 1.4em;
+}
+
+.c24 {
+  font-size: 1.2em;
+  width: 50%;
+}
+
+.c11 {
+  margin-top: 1em;
+  color: #36598d;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <div
+      class="c1"
+    >
+      <div
+        class="c2 c3"
+      >
+        <img
+          alt="logo"
+          class="c4"
+          src="[object Object]"
+        />
+        <img
+          alt="basket"
+          class="c5"
+          src="[object Object]"
+        />
+      </div>
+    </div>
+    <img
+      class="c6"
+      src="https://i.ibb.co/2nzwxnQ/bulb.png"
+    />
+    <div
+      class="c0 c7 c8 c9"
+    >
+      <div
+        class="c10"
+        data-testid="product-title"
+      >
+        Energy saving light bulb
+      </div>
+      <div
+        class="c11"
+        data-testid="product-subtitle"
+      >
+        25W // Packet of 4
+      </div>
+    </div>
+    <div
+      class="c0 c7"
+    >
+      <div
+        class="c0"
+      >
+        <div
+          class="c2 c3"
+        >
+          <div
+            class="c0"
+          >
+            <div
+              class="c12"
+            />
+            <div
+              class="c2"
+            >
+              <div
+                class="c13"
+                data-testid="price-pounds"
+              >
+                12
+              </div>
+              <div
+                class="c14"
+                data-testid="price-pence"
+              >
+                .
+                99
+              </div>
+            </div>
+          </div>
+          <div
+            class="c0"
+          >
+            <div
+              class="c15"
+            >
+              QTY
+            </div>
+            <div
+              class="c16"
+            >
+              <div
+                class="c17"
+                data-testid="quantity-decrease-button"
+              >
+                -
+              </div>
+              <div
+                class="c18"
+                data-testid="quantity-amount"
+              >
+                1
+              </div>
+              <div
+                class="c19"
+                data-testid="quantity-increase-button"
+              >
+                +
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="c20"
+          data-testid="product-add-to-cart-button"
+        >
+          Add to cart
+        </div>
+      </div>
+    </div>
+    <div
+      class="c0 c7 c8"
+    >
+      <div
+        class="c21"
+      >
+        Description
+      </div>
+      <div
+        class="c22"
+      >
+        Available in 7 watts, 9 watts, 11 watts Spiral Light bulb in B22, bulb switches on instantly, no wait around warm start and flicker free features make for a great all purpose bulb
+      </div>
+    </div>
+    <div
+      class="c0 c7"
+    >
+      <div
+        class="c21"
+      >
+        Specifications
+      </div>
+      <div
+        class="c2 c3 c23"
+      >
+        <div
+          class="c24"
+          data-testid="product-specification-Brand-property"
+        >
+          Brand
+        </div>
+        <div
+          class="c24"
+          data-testid="product-specification-Brand-value"
+        >
+          Philips
+        </div>
+      </div>
+      <div
+        class="c2 c3 c23"
+      >
+        <div
+          class="c24"
+          data-testid="product-specification-Item weight-property"
+        >
+          Item weight
+        </div>
+        <div
+          class="c24"
+          data-testid="product-specification-Item weight-value"
+        >
+          77
+        </div>
+      </div>
+      <div
+        class="c2 c3 c23"
+      >
+        <div
+          class="c24"
+          data-testid="product-specification-Dimensions-property"
+        >
+          Dimensions
+        </div>
+        <div
+          class="c24"
+          data-testid="product-specification-Dimensions-value"
+        >
+          12.6x6.2x6.2
+        </div>
+      </div>
+      <div
+        class="c2 c3 c23"
+      >
+        <div
+          class="c24"
+          data-testid="product-specification-Item model number-property"
+        >
+          Item model number
+        </div>
+        <div
+          class="c24"
+          data-testid="product-specification-Item model number-value"
+        >
+          E27 ES
+        </div>
+      </div>
+      <div
+        class="c2 c3 c23"
+      >
+        <div
+          class="c24"
+          data-testid="product-specification-Colour-property"
+        >
+          Colour
+        </div>
+        <div
+          class="c24"
+          data-testid="product-specification-Colour-value"
+        >
+          Cool daylight
+        </div>
+      </div>
+    </div>
+    <div
+      class="c0 c25"
+    >
+      <div
+        class="c26"
+      >
+        Octopus Energy Ltd is a company registered in England and Wales.
+      </div>
+      <div
+        class="c26"
+      >
+        Registered Number: 09263424. Registered office: 33 Holborn, London, EC1N 2HT. Trading office: 20-24 Broadwich Street, London, W1F 8HT.
+      </div>
+    </div>
+  </div>
+</div>
+`;
